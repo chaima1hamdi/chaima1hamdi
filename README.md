@@ -1,20 +1,93 @@
-## Hi there 👋
+<!-- 🌌 CYBERPUNK TYPING HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=900&center=true&vCenter=true&color=0FF0FC&width=700&lines=✨+Chaima's+Cyber+Sanctuary+✨;Neon+Dreamer+%7C+Software+Engineer;Frontend+%2F+Backend+Developer;Welcome+to+My+Digital+Universe+🌌">
+</h1>
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/haima1hamdi) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=haima1hamdi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=haima1hamdi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haima1hamdi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=haima1hamdi&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 🌙 GLOWING MOON AESTHETIC -->
+<p align="center">
+  <img src="https://i.imgur.com/9JRa5yH.gif" width="260" alt="glowing moon gif">
+</p>
+
+---
+
+<!-- 🌸 FULL-SCREEN SAKURA RAIN -->
+<p align="center">
+  <img src="https://i.imgur.com/Vd0yQ4e.gif" width="100%" alt="sakura rain">
+</p>
+
+---
+
+<!-- 🦋 CYBER BUTTERFLY -->
+<p align="center">
+  <img src="https://i.imgur.com/9pYx7QF.gif" width="200" alt="neon butterfly">
+</p>
+
+<!-- 🐱 NEON CYBER CAT ASCII -->
+<p align="center"><pre>
+ /\_/\  
+( ◕‿◕ )  < meow access granted >  
+  > ^ <
+</pre></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/glow.png" width="100%">
+</p>
+
+---
+
+# 🌌 About Me
+✨ **Chaima**  
+🎓 Software Engineering Student  
+💻 Full-Stack Developer (Frontend + Backend)  
+💫 Passion for **Cyberpunk Aesthetics, Neon UI, Animations & Clean Code**  
+🌙 Loves moonlight, pastel colors & futuristic vibes  
+🌸 Current focus: **Next.js • Oracle • Docker • MySQL**
+
+---
+
+# 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nextjs,react,html,css,cpp,java,php,python,mysql,git,github,docker,notion,apache,oracle&theme=dark" />
+</p>
+
+---
+
+# 🛰️ Cyber Stats Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chaima1hamdi&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0d0d0d" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaima1hamdi&layout=compact&theme=highcontrast&hide_border=true&bg_color=0d0d0d" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=chaima1hamdi&theme=highcontrast&hide_border=true&background=0D0D0D" />
+
+</div>
+
+---
+
+# 💌 Contact Me
+<p align="center">
+  <a href="mailto:chimou1o1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0ff0fc?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<!-- 🌈 CYBER FOOTER -->
+<p align="center">
+  <img src="https://i.imgur.com/fU6Y2f4.gif" width="100%" alt="neon grid">
+</p>
+
+<h3 align="center">🌌 Thanks for visiting my neon world ✨</h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/9pYx7QF.gif" width="180">
+</p>
